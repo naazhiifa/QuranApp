@@ -1,7 +1,7 @@
 
 # Qur'an App
 
-![![Arial Nova](https://github.com/naazhiifa/QuranApp/assets/110214624/ed3c4b4f-6b26-47c0-bf40-f7cd73158568)
+[Arial Nova](https://github.com/naazhiifa/QuranApp/assets/110214624/ed3c4b4f-6b26-47c0-bf40-f7cd73158568)
 
 # 📝 Introduction
 This is my third android project.
